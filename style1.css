@@ -17,10 +17,10 @@ header {
 }
 
 img {
-  width: 300;
+  width: 300px;
   height: auto;
   margin: 1rem 0;
-  display: 1rem 0;
+  display: block;
 }
 
 nav ul {
@@ -56,9 +56,9 @@ footer {
   color: white;
   text-align: center;
   padding: 1rem;
-  font-size: 0, 9rem;
+  font-size: 0.9rem;
 }
 
 section {
-  margin-bottom: 2 rem;
+  margin-bottom: 2rem;
 }
