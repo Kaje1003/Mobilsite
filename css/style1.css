@@ -17,10 +17,10 @@ header {
 }
 
 img {
-  width: 300;
+  width: 450px;
   height: auto;
   margin: 1rem 0;
-  display: 1rem 0;
+  display: block;
 }
 
 nav ul {
@@ -56,9 +56,19 @@ footer {
   color: white;
   text-align: center;
   padding: 1rem;
-  font-size: 0, 9rem;
+  font-size: 0.9rem;
 }
 
 section {
-  margin-bottom: 2 rem;
+  margin-bottom: 2rem;
+}
+
+.cta {
+  display: inline-block;
+  background-color: #b663a9;
+  color: rgb(255, 255, 255);
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 6px;
+  margin-top: 1rem;
 }
